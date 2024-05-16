@@ -1,0 +1,6 @@
+### Insides obtidos através da analise dos dados.
+
+* **Crescimento Explosivo do Uso do PIX:** O gráfico revela um crescimento significativo no uso do PIX ao longo do tempo, indicado pela linha azul, em comparação com as transações TED (linha laranja) e DOC (linha verde). Esse aumento acentuado sugere uma rápida adoção do PIX como meio de pagamento eletrônico, possivelmente devido à sua conveniência e rapidez.
+* **Declínio Gradual de TED e DOC:** Em contraste com o crescimento do PIX, as transações TED e DOC parecem mostrar um declínio gradual ao longo do tempo. Isso pode ser atribuído à preferência dos usuários por métodos de pagamento mais eficientes e instantâneos, como o PIX, em detrimento das transferências bancárias tradicionais, que geralmente levam mais tempo para serem processadas.
+
+* **Potencial Substituição do DOC pelo PIX:** Notavelmente, a linha verde que representa as transações DOC mostra uma tendência de queda mais acentuada em comparação com as TED. Isso sugere que o PIX pode estar substituindo gradualmente o DOC como meio de transferência de valores entre contas bancárias, uma vez que o PIX oferece vantagens em termos de velocidade e disponibilidade, especialmente para transações de baixo valor.
